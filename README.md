@@ -1,30 +1,24 @@
-Solar Challenge – Week 0
+🌞 Solar Challenge – Week 0
 
 Exploratory Data Analysis (EDA) and initial preparation for solar radiation data.
 
 📌 Project Overview
 
-This project analyzes solar radiation trends for several countries to understand patterns and prepare the dataset for further modeling in upcoming challenge weeks.
+This project explores and analyzes solar radiation trends for multiple countries, helping to understand variations and prepare cleaned datasets for future modeling.
 
-Countries analyzed:
+Countries analyzed
 
-Benin
+.Benin
+.Togo
+.Sierra Leone
+.All countries compared together
 
-Togo
+Each analysis includes
 
-Sierra Leone
-
-Compare all countries together
-
-Each country includes:
-
-Data cleaning
-
-Handling missing values
-
-Visualization of radiation trends
-
-Saving cleaned datasets
+.Data cleaning
+.Handling missing values
+.Visualizing solar radiation trends
+.Saving cleaned datasets
 
 📁 Project Structure
 solar-challenge-week0/
@@ -41,36 +35,27 @@ solar-challenge-week0/
 └── README.md
 
 🔧 Installation
-
-Clone the repository:
-
+Clone the repository
 git clone https://github.com/yourusername/solar-challenge-analysis.git
 
-
-Install required libraries:
-
+Install required libraries
 pip install -r requirements.txt
 
 📊 Key Python Libraries
-pandas  
-numpy  
-matplotlib  
-seaborn  
-scipy  
-streamlit  
-plotly  
-scikit-learn  
+
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+streamlit
+plotly
+scikit-learn
 
 📈 What This Week Includes
 
 Cleaning solar radiation data
-
-Visual analysis (line plots, summaries, comparison)
-
-Saving cleaned CSVs
-
-Understanding differences between countries
-
-📝 Acknowledgments
-
-This project is part of the Solar Challenge – Week 0 assignment.
+Visual and statistical exploration
+Creating comparison plots across countries
+Saving cleaned datasets
+Understanding differences in solar radiation behavior
