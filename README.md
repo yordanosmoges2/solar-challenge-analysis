@@ -8,17 +8,23 @@ This project explores and analyzes solar radiation trends for multiple countries
 
 Countries analyzed
 
-.Benin
-.Togo
-.Sierra Leone
-.All countries compared together
+Benin
+
+Togo
+
+Sierra Leone
+
+All countries compared together
 
 Each analysis includes
 
-.Data cleaning
-.Handling missing values
-.Visualizing solar radiation trends
-.Saving cleaned datasets
+Data cleaning
+
+Handling missing values
+
+Visualizing solar radiation trends
+
+Saving cleaned datasets
 
 📁 Project Structure
 solar-challenge-week0/
@@ -44,18 +50,33 @@ pip install -r requirements.txt
 📊 Key Python Libraries
 
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scipy
+
 streamlit
+
 plotly
+
 scikit-learn
 
 📈 What This Week Includes
 
 Cleaning solar radiation data
+
 Visual and statistical exploration
+
 Creating comparison plots across countries
+
 Saving cleaned datasets
+
 Understanding differences in solar radiation behavior
+
+📝 Acknowledgments
+
+This project is part of the Solar Challenge – Week 0 assignment.
